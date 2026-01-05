@@ -27,7 +27,7 @@ To reproduce the experiments reported in the paper:
      main_Deg4(1)
      ```
 
-The results will be saved automatically in the corresponding output directory.
+The results will be saved automatically in the same directory as a .mat file.
 
 ## Notes
 - Dataset indices and experimental settings are defined in `recalldata.m`.
