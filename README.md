@@ -13,11 +13,7 @@ S. Karami, F. Saberi-Movahed, P. Tiwari, S. Nowaczyk, J. Lehmann, and S. Vahdati
 ## Requirements
 - MATLAB (tested on R2018b and later)
 
-## Directory Structure
-Before running the code, please create the following directory structure:
 
-
-Place all datasets inside the `Datasets` folder.
 
 ## Running the Code
 To reproduce the experiments reported in the paper:
